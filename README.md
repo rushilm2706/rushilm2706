@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushilm2706&label=Profile%20views&color=0e75b6&style=flat" alt="rushilm2706" /> </p>
 
-- 🔭 I’m currently working on **Intelligent Document Processing**
+- 🔭 I’m currently working on **Stock Prediction Model**
 
-- 🌱 I’m currently learning **Data Engineering 101**
+- 🌱 I’m currently learning **Functional modelling and Analysis**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rushil-45a211101/](https://www.linkedin.com/in/rushil-45a211101/)
 
