@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushilm2706&label=Profile%20views&color=0e75b6&style=flat" alt="rushilm2706" /> </p>
 
-- 🔭 I’m currently working on **https://github.com/devendragovil/explorations_func_data/tree/main**
+- 🔭 I’m currently working on **https://github.com/devendragovil/explorations_func_data/tree/rushilm**
 
 - 🌱 I’m currently learning **Functional modelling and Analysis**
 
